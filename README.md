@@ -5,3 +5,4 @@ Project team members:
 2. Adithya J A
 3. Ashin Krishna
 4. Ashayy
+5. Chinthan M M
