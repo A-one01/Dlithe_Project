@@ -2,7 +2,7 @@
 Password Manager System
 Project team members:
 1. Abdul Ahad (ahad6326@gmail.com)
-2. Adithya J A
-3. Ashin Krishna
-4. Ashayy
+2. Adithya J A (jaadithya64@gmail.com)
+3. Ashin Krishna 
+4. Ashayy   (ashayka68@gmail.com)
 5. Chinthan M M
